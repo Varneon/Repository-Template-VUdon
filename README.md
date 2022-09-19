@@ -30,7 +30,7 @@ Template repository for VUdon packages
 
 ### Import from [Unitypackage](https://docs.unity3d.com/2019.4/Documentation/Manual/AssetPackagesImport.html):</summary>
 
-> 1. Download latest VUdon - Repository Template from [here](https://github.com/Varneon/Repository-Template-VUdon/releases/latest)
+> 1. Download latest `com.varneon.vudon.repository-template.unitypackage` from [here](https://github.com/Varneon/Repository-Template-VUdon/releases/latest)
 > 2. Import the downloaded .unitypackage into your Unity project
 
 </details>
