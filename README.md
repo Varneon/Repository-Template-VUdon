@@ -12,7 +12,7 @@ Template repository for VUdon packages
 
 ### Import with [VRChat Creator Companion](https://vcc.docs.vrchat.com/vpm/packages#user-packages):</summary>
 
-> 1. Download `com.varneon.vudon.repository-template.zip` from [here](https://github.com/Varneon/Repository-Template-VUdon/archive/refs/heads/main.zip)
+> 1. Download `com.varneon.vudon.repository-template.zip` from [here](https://github.com/Varneon/Repository-Template-VUdon/releases/latest)
 > 2. Unpack the .zip somewhere
 > 3. In VRChat Creator Companion, navigate to `Settings` > `User Packages` > `Add`
 > 4. Navigate to the unpacked folder, `com.varneon.vudon.repository-template` and click `Select Folder`
