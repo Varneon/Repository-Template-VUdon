@@ -24,7 +24,7 @@ Template repository for VUdon packages
 ### Import with [Unity Package Manager (git)](https://docs.unity3d.com/2019.4/Documentation/Manual/upm-ui-giturl.html):</summary>
 
 > 1. In the Unity toolbar, select `Window` > `Package Manager` > `[+]` > `Add package from git URL...` 
-> 2. Paste the following link: `https://github.com/Varneon/Repository-Template-VUdon.git?path=/Packages/com.varneon.vudon.repository-template`
+> 2. Copy and paste the following link into the URL input field: <pre lang="md">https://github.com/Varneon/Repository-Template-VUdon.git?path=/Packages/com.varneon.vudon.repository-template</pre>
 
 </details><details><summary>
 
